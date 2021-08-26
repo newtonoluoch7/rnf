@@ -62,12 +62,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 a {transition: all 0.3s ease 0s;text-decoration:none;color:#777}
 a:hover {
-  color: #0AAAA0;
+  color: #045dc9;
   text-decoration: none;
 }
 a:active, a:hover {
   outline: 0 none;
-  color: #0AAAA0;
+  color: #045dc9;
 }
 .np{
   padding: 0px;
@@ -158,9 +158,9 @@ body {
   padding: 10px 12px;
 }
 .btn-lg:hover{
-  background: #0AAAC0;
+  background: #0074FF;
   color: #fff;
-  border: 1px solid #0AAAC0;
+  border: 1px solid #0074FF;
 }
 .btn-md {
   border: 1px solid #555;
@@ -172,9 +172,9 @@ body {
   text-transform: uppercase;
 }
 .btn-md:hover{
-  background: #0AAAC0;
+  background: #0074FF;
   color: #fff;
-  border: 1px solid #0AAAC0;
+  border: 1px solid #0074FF;
 }
 .btn-sm {
   border: 1px solid #fff;
@@ -188,13 +188,13 @@ body {
   text-transform: uppercase;
 }
 .btn-sm:hover{
-  background: #0AAAC0;
+  background: #0074FF;
   color: #fff;
-  border: 1px solid #0AAAC0;
+  border: 1px solid #0074FF;
 }
 .btn-lg-f{
   border: 1px solid #fff;
-  background: #0AAAC0;
+  background: #0074FF;
   display: inline-block;
   font-family: raleway;
   font-size: 12px;
@@ -217,7 +217,7 @@ body {
 /*  2. Header CSS
 /*----------------------------------------*/
 .header-top {
-  background: #0aaaa0 none repeat scroll 0 0;
+  background: #045dc9 none repeat scroll 0 0;
   line-height: 40px;
 }
 .top-social ul li {
@@ -271,7 +271,7 @@ body {
   padding: 0;
 }
 .call-to-action ul li ul {
-  background: #0aaaa0 none repeat scroll 0 0;
+  background: #045dc9 none repeat scroll 0 0;
   opacity: 0;
   padding: 0 10px;
   position: absolute;
@@ -306,13 +306,13 @@ body {
   transition: all 0.3s ease 0s;
 }
 .main-menu ul li:hover a{
-  color: #0aaaa0;
-  border-bottom: 2px solid #0aaaa0;
+  color: #045dc9;
+  border-bottom: 2px solid #045dc9;
 }
 /* megamenu css */
 .mega-menu-area {
   background: #ffffff none repeat scroll 0 0;
-  border-bottom: 2px solid #0aaaa0;
+  border-bottom: 2px solid #045dc9;
   box-shadow: 0 1px 2px rgba(86, 86, 90, 0.5);
   left: 0;
   opacity: 0;
@@ -353,15 +353,15 @@ body {
   color: #444;
 }
 .main-menu li:hover .single-mega-item li:hover{
-  border-bottom: 1px solid #0AAAA0;
+  border-bottom: 1px solid #045dc9;
 }
 .main-menu li:hover .single-mega-item li a:hover {
-  color: #0AAAA0;
+  color: #045dc9;
 }
 /* drop-menu menu css */
 .drop-menu {
   background: #ffffff none repeat scroll 0 0;
-  border-bottom: 2px solid #0aaaa0;
+  border-bottom: 2px solid #045dc9;
   box-shadow: 0 1px 2px rgba(86, 86, 90, 0.5);
   left: 0;
   opacity: 0;
@@ -395,11 +395,11 @@ body {
   padding-left: 15px;
 }
 .drop-menu li a:hover{
-  border-bottom: 1px solid #0AAAA0;
-  color: #0AAAA0;
+  border-bottom: 1px solid #045dc9;
+  color: #045dc9;
 }
 .main-menu li:hover .drop-menu li:last-child a:hover{
-  border-bottom: 0px solid #0AAAA0;
+  border-bottom: 0px solid #045dc9;
 }
 .main-menu li:hover .drop-menu {
   opacity: 1;
@@ -418,8 +418,8 @@ body {
   margin-top: 19px;
 }
 .donate-button > a {
-  background: #0aaaa0 none repeat scroll 0 0;
-  border: 1px solid #0aaaa0;
+  background: #045dc9 none repeat scroll 0 0;
+  border: 1px solid #045dc9;
   color: #fff;
   font-family: "Raleway",sans-serif;
   font-size: 14px;
@@ -532,13 +532,13 @@ h1.title1 {
   margin-left: 160px;
 }
 .nivo-prevNav .left:hover i{
-  color: #0AAAA0;
+  color: #045dc9;
 }
 .nivo-nextNav .right {
   margin-right: 160px;
 }
 .nivo-nextNav .right:hover i{
-  color: #0AAAA0;
+  color: #045dc9;
 }
 .slider-area .nivo-controlNav {
   bottom: 0;
@@ -548,7 +548,7 @@ h1.title1 {
 }
 .slider-area .nivo-controlNav a.active, .slider-area .nivo-controlNav a:hover {
   background: #fff none repeat scroll 0 0;
-  box-shadow: 0 0 0 3px #0AAAA0 inset;
+  box-shadow: 0 0 0 3px #045dc9 inset;
 }
 .slider-area .nivo-controlNav a {
   background: #ebebeb none repeat scroll 0 0;
@@ -604,7 +604,7 @@ h1.title1 {
   text-transform: uppercase;
 }
 .section-title h2 span {
-  color: #0aaaa0;
+  color: #045dc9;
 }
 .section-title.text-center > p {
   color: #333333;
@@ -674,7 +674,7 @@ h1.title1 {
 }
 /* help-icon */
 .help-icon {
-  border: 1px solid #0aaac0;
+  border: 1px solid #0074FF;
   float: left;
   margin-right: 30px;
   text-align: center;
@@ -715,7 +715,7 @@ h1.title1 {
 }
 .gallery-menu ul li:hover,
 .gallery-menu ul li.active{
-  color: #0AAAA0;
+  color: #045dc9;
 }
 /* gallery-images */
 .mix{
@@ -725,7 +725,7 @@ h1.title1 {
   position: relative;
 }
 .image-link {
-  background: rgba(10, 170, 160, 0.68) none repeat scroll 0 0;
+  background: #0074FF none repeat scroll 0 0;
   bottom: 15px;
   left: 15px;
   opacity: 0;
@@ -791,7 +791,7 @@ h1.title1 {
   text-align: center;
 }
 .count-down .tab-val {
-  background: #0aaac0 none repeat scroll 0 0 padding-box content-box;
+  background: #0074FF none repeat scroll 0 0 padding-box content-box;
   border: 2px solid #ffffff;
   color: #ffffff;
   font-family: roboto;
@@ -816,7 +816,7 @@ h1.title1 {
   position: relative;
 }
 .volunteer-social {
-  background: rgba(10, 170, 192, 0.65) none repeat scroll 0 0;
+  background: #0074FF none repeat scroll 0 0;
   height: 0%;
   left: 0;
   line-height: 339px;
@@ -882,7 +882,7 @@ h1.title1 {
   padding-bottom: 15px;
 }
 .people-say-image > img {
-  border: 2px solid #0aaaa0;
+  border: 2px solid #045dc9;
   border-radius: 100%;
   height: 115px;
   width: 115px;
@@ -983,7 +983,7 @@ h1.title1 {
   position: relative;
 }
 .blo-image-and-date > a {
-  background: #0000FF none repeat scroll 0 0;
+  background: #0074FF none repeat scroll 0 0;
   color: #fff;
   font-family: "Lato",sans-serif;
   font-size: 14px;
@@ -1023,7 +1023,7 @@ h1.title1 {
 }
 .comment a:hover i,
 .admin > a:hover i{
-  color: #0AAAC0;
+  color: #0074FF;
 }
 .comment > a {
   border-right: 1px solid;
@@ -1043,7 +1043,7 @@ h1.title1 {
   font-weight: bold;
 }
 .blog-text h3 a:hover{
-  color: #0AAAA0;
+  color: #045dc9;
 }
 .blog-text > p {
   color: #333;
@@ -1059,8 +1059,8 @@ h1.title1 {
   line-height: 22px;
 }
 .blog-text > a:hover{
-  color: #0AAAC0;
-  border-bottom: 1px solid #0AAAC0;
+  color: #0074FF;
+  border-bottom: 1px solid #0074FF;
 }
 /*----------------------------------------*/
 /*  11. Brand logo CSS
@@ -1089,7 +1089,7 @@ h1.title1 {
   position: relative;
 }
 .footer-widget-title > h3::after {
-  background: #0aaac0 none repeat scroll 0 0;
+  background: #0074FF none repeat scroll 0 0;
   content: "";
   display: block;
   height: 3px;
@@ -1149,7 +1149,7 @@ h1.title1 {
   padding: 5px 10px;
 }
 .newslater button {
-  background: #0aaaa0 none repeat scroll 0 0;
+  background: #045dc9 none repeat scroll 0 0;
   border: medium none;
   border-radius: 0 2px 2px 0;
   color: #ffffff;
@@ -1199,7 +1199,7 @@ h1.title1 {
   margin-top: 50px;
 }
 #scrollUp {
-  background-color: #0AAAA0;
+  background-color: #045dc9;
   bottom: 5px;
   cursor: pointer;
   display: none;
@@ -1238,7 +1238,7 @@ h1.title1 {
   font-size: 13px;
 }
 .back-home a i {
-  color: #0aaac0;
+  color: #0074FF;
   margin-right: 5px;
 }
 .page-title h1 {
@@ -1269,7 +1269,7 @@ h1.title1 {
 }
 .breadcrumbs a:hover,
 .breadcrumbs li.active{
-  color: #0AAAA0;
+  color: #045dc9;
 }
 /* about text */
 .about-button.btn-lg-f {
@@ -1311,7 +1311,7 @@ h1.title1 {
   position: relative;
 }
 .single-project h2::after {
-  background: #0aaac0 none repeat scroll 0 0;
+  background: #0074FF none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height: 5px;
@@ -1425,8 +1425,8 @@ line-height: 36px;}
   padding: 6px 12px;
 }
 .blog-pagination li a:hover{
-  background: #0AAAA0;
-  border: 1px solid #0AAAA0;
+  background: #045dc9;
+  border: 1px solid #045dc9;
   color: #fff;
 }
 .blog-pagination li:last-child a{
@@ -1436,7 +1436,7 @@ line-height: 36px;}
 }
 .blog-pagination li:last-child a:hover{
   background: transparent;
-  color: #0AAAA0;
+  color: #045dc9;
 }
 /*----------------------------------------*/
 /*  15. Contact CSS
@@ -1448,10 +1448,10 @@ line-height: 36px;}
   transition: all 0.3s ease 0s;
 }
 .single-box:hover{
-  border: 1px solid #0AAAA0;
+  border: 1px solid #045dc9;
 }
 .single-box:hover i{
-  color: #0AAAA0;
+  color: #045dc9;
 }
 .single-box i {
   font-size: 40px;
@@ -1525,8 +1525,8 @@ line-height: 36px;}
   transition: all 0.3s ease 0s;
 }
 .form-button button:hover{
-  background: #0AAAA0;
-  border: 1px solid #0AAAA0;
+  background: #045dc9;
+  border: 1px solid #045dc9;
   color: #fff;
 }
 #googleMap{
@@ -1606,7 +1606,7 @@ line-height: 36px;}
   float: left;
   font-size: 40px;
   margin-right: 15px;
-  color: #0AAAA0;
+  color: #045dc9;
 }
 .twitter-widget > h5 {
   color: #555;
@@ -1638,7 +1638,7 @@ line-height: 36px;}
   padding: 10px 24px;
 }
 .popular-tags nav ul li a:hover{
-  background: #0AAAA0;
+  background: #045dc9;
   color: #fff;
 }
 /* flicker widget */
@@ -1672,7 +1672,7 @@ line-height: 36px;}
   width: 100%;
 }
 .event-image > h3 {
-  background: #0aaaa0 none repeat scroll 0 0;
+  background: #045dc9 none repeat scroll 0 0;
   color: #fff;
   font-family: roboto;
   font-size: 18px;
@@ -1686,7 +1686,7 @@ line-height: 36px;}
   width: 50px;
 }
 .event-text h3 a:hover{
-  color: #0aaaa0;
+  color: #045dc9;
 }
 .event-text > h3 {
   font-size: 18px;
@@ -1705,7 +1705,7 @@ line-height: 36px;}
   margin-right: 30px;
 }
 .event-time-and-place span i {
-  color: #0aaaa0;
+  color: #045dc9;
   margin-right: 11px;
 }
 .event-text > p {
@@ -1721,7 +1721,7 @@ line-height: 36px;}
 }
 .event-sidt-title > h3:after{
   content: "";
-  background: #0AAAA0;
+  background: #045dc9;
   position: absolute;
   width: 70px;
   height: 3px;
@@ -1756,7 +1756,7 @@ line-height: 36px;}
   line-height: 150px;
 }
 .error-content h1 span {
-  color: #0aaac0;
+  color: #0074FF;
 }
 .error-content h3 {
   color: #fff;
@@ -1855,7 +1855,7 @@ line-height: 36px;}
   transition: all 0.3s ease 0s;
 }
 .single0blog-coment ul li .comment-heading h5 a:hover {
-  color: #0AAAA0;
+  color: #045dc9;
 }
 .single0blog-coment ul li .comment-heading p {
   display: inline-block;
@@ -1869,7 +1869,7 @@ line-height: 36px;}
   transition: all 0.3s ease 0s;
 }
 .single0blog-coment ul li .comment-heading a.reply:hover {
-  color: #0AAAA0;
+  color: #045dc9;
 }
 .single0blog-coment ul li .coment0-text {
   background: #efefef none repeat scroll 0 0;
@@ -1953,7 +1953,7 @@ line-height: 36px;}
   float: right;
 }
 .leave-reply .btn-style:hover {
-  background: #0AAAA0 none repeat scroll 0 0;
+  background: #045dc9 none repeat scroll 0 0;
 }
 
 /*--------------------------
@@ -2058,7 +2058,7 @@ line-height: 36px;}
 	line-height: 45px;
 	float: left;
 	background: #fff;
-    border: 2px solid #0AAAA0;
+    border: 2px solid #045dc9;
 	-webkit-transition: all 0.2s;
 	-moz-transition: all 0.2s;
 	-o-transition: all 0.2s;
@@ -2220,8 +2220,8 @@ line-height: 36px;}
   line-height: 38px;
 }
 .ec-colorswitcher h3 {
-  background-color: #0aaaa0;
-  border-top: 1px solid #0aaaa0;
+  background-color: #045dc9;
+  border-top: 1px solid #045dc9;
   color: #fff;
   font-size: 18px;
   font-weight: 600;
@@ -2269,7 +2269,7 @@ line-height: 36px;}
   margin-bottom: 15px;
 }
 .layout-btn a span {
-  background-color: #0AAAA0;
+  background-color: #045dc9;
   color: #fff;
   float: left;
   padding: 10px;
@@ -2307,7 +2307,7 @@ line-height: 36px;}
   max-width: 1200px;
 }
 .cs-color-1 {
-  background: #0AAAA0;
+  background: #045dc9;
 }
 .cs-color-2 {
   background: #41c3ac;
