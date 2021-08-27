@@ -596,6 +596,7 @@
                 </div>
             </section>
             <!-- End blog area -->
+
             <!-- Start brand logo area -->
             <section class="brand-logo-area pb-90">
                 <div class="container">
@@ -613,32 +614,32 @@
                     <div class="row brand-logo">
                         <div class="col-md-2">
                             <div class="b-logo">
-                                <a href="http://psdrightsell.com/"><img src="img/brand-logo/b-logo-one.png" alt="psdrightsell"></a>
+                                <a href="https://nelisaawakeningafrica.com/" target="_blank"><img src="img/brand-logo/Artboard 1Nelisa.png" alt="psdrightsell" style="width:240px;"></a>
                             </div>
                         </div>
                         <div class="col-md-2">
                             <div class="b-logo">
-                                <a href="http://hastech.company/"><img src="img/brand-logo/b-logo-two.png" alt="hastech"></a>
+                                <a href="https://nojo.co.ke/" target="_blank"><img src="img/brand-logo/b-logo-two.png" alt="hastech"></a>
                             </div>
                         </div>
                         <div class="col-md-2">
                             <div class="b-logo">
-                                <a href="https://devitems.com/"><img src="img/brand-logo/b-logo-three.png" alt="devitems"></a>
+                                <a href="https://nojo.co.ke/" target="_blank"><img src="img/brand-logo/b-logo-three.png" alt="devitems"></a>
                             </div>
                         </div>
                         <div class="col-md-2">
                             <div class="b-logo">
-                                <a href="https://themeforest.net/user/power-boosts"><img src="img/brand-logo/b-logo-four.png" alt="power boosts"></a>
+                                <a href="https://nojo.co.ke/" target="_blank"><img src="img/brand-logo/b-logo-four.png" alt="power boosts"></a>
                             </div>
                         </div>
                         <div class="col-md-2">
                             <div class="b-logo">
-                                <a href="https://themeforest.net/user/hastech/portfolio"><img src="img/brand-logo/b-logo-five.png" alt="hastech"></a>
+                                <a href="https://nojo.co.ke/" target="_blank"><img src="img/brand-logo/b-logo-five.png" alt="hastech"></a>
                             </div>
                         </div>
                         <div class="col-md-2">
                             <div class="b-logo">
-                                <a href="https://themeforest.net/user/codecarnival"><img src="img/brand-logo/b-logo-six.png" alt="codecarnival"></a>
+                                <a href="https://nojo.co.ke/" target="_blank"><img src="img/brand-logo/b-logo-six.png" alt="codecarnival"></a>
                             </div>
                         </div>
                     </div>
